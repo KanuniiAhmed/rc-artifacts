@@ -2,7 +2,7 @@
 
 A personal **plugin marketplace**: proven patterns from real projects, packaged so any current or future project can install them. It grows over time — each time a pattern proves itself across projects, it becomes an installable plugin here.
 
-> Origin: two independent side projects — a web app and a media-processing service — evolved the same engineering roles: a CTO orchestrator, an adversarial security reviewer that can block, and a cost-disciplined DevOps guardian. That convergence is the signal that these belong in a shared, reusable place instead of being re-invented per project.
+> Origin: two independent side projects, with different workloads and data models, evolved the same engineering roles: a CTO orchestrator, an adversarial security reviewer that can block, and a cost-disciplined DevOps guardian. That convergence is the signal that these belong in a shared, reusable place instead of being re-invented per project.
 
 ## Install (once, then usable everywhere)
 
