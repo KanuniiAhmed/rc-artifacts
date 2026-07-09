@@ -1,0 +1,17 @@
+{
+  "name": "qa-kit",
+  "displayName": "QA Kit",
+  "version": "0.1.0",
+  "description": "Test & QA discipline: an end-to-end verifier that never claims a pass it didn't run, and a strictly read-only live-production sentinel that spot-checks the real deployed site with cache-busting and adversarial cross-checks. Distilled from QA patterns proven across real projects.",
+  "author": {
+    "name": "KanuniiAhmed"
+  },
+  "keywords": [
+    "qa",
+    "testing",
+    "e2e",
+    "regression",
+    "production-monitoring"
+  ],
+  "license": "MIT"
+}

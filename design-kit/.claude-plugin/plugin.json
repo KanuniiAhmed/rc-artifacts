@@ -1,0 +1,19 @@
+{
+  "name": "design-kit",
+  "displayName": "Design Kit",
+  "version": "0.1.0",
+  "description": "Frontend design-system discipline: a token-first, dark-mode-first, RTL-safe, zero-CLS, CSP-safe design steward, and a WCAG 2.2 AA accessibility release gate. Brand-neutral method distilled from frontend + accessibility patterns proven on real products.",
+  "author": {
+    "name": "KanuniiAhmed"
+  },
+  "keywords": [
+    "design-system",
+    "frontend",
+    "accessibility",
+    "wcag",
+    "rtl",
+    "i18n",
+    "css"
+  ],
+  "license": "MIT"
+}

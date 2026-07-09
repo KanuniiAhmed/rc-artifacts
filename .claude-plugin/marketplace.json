@@ -1,0 +1,32 @@
+{
+  "name": "rc-artifacts",
+  "owner": { "name": "KanuniiAhmed" },
+  "description": "A personal marketplace of reusable Claude Code assets, distilled from patterns proven across real projects. Grows over time — each proven pattern becomes an installable plugin.",
+  "version": "0.2.0",
+  "plugins": [
+    {
+      "name": "cto-kit",
+      "source": "./cto-kit",
+      "description": "Solo-founder engineering discipline: adversarial security gate, AWS cost guardian, CTO orchestrator, and cross-session memory hygiene.",
+      "version": "0.1.0",
+      "keywords": ["security-review", "aws-cost", "orchestration", "memory"],
+      "author": { "name": "KanuniiAhmed" }
+    },
+    {
+      "name": "qa-kit",
+      "source": "./qa-kit",
+      "description": "Test & QA discipline: an end-to-end verifier that never claims an unrun pass, plus a strictly read-only live-production sentinel.",
+      "version": "0.1.0",
+      "keywords": ["qa", "testing", "e2e", "production-monitoring"],
+      "author": { "name": "KanuniiAhmed" }
+    },
+    {
+      "name": "design-kit",
+      "source": "./design-kit",
+      "description": "Frontend design-system discipline: a token-first/dark-mode-first/RTL-safe/zero-CLS/CSP-safe design steward and a WCAG 2.2 AA accessibility gate.",
+      "version": "0.1.0",
+      "keywords": ["design-system", "frontend", "accessibility", "wcag", "rtl"],
+      "author": { "name": "KanuniiAhmed" }
+    }
+  ]
+}
